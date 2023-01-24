@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YoussefCodes
-- 👀 I’m interested in programming games, applications, etc.
-- 🌱 I’m currently learning JavaScript on Khan Academy. I may learn other languages
-- 💞️ I’m looking to collaborate on computer programs with fellow proccessingJS users.
-- 📫 To reach me, you can email me or DM me on dsicord or here.
+- 👀 I’m interested in programming games, applications, mods, etc.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on anything java☕ or webpage related
+- 📫 To reach me, you can email me or DM me on dsicord or github. My Discord is Spicylolz#6196
 
 <!---
 YoussefCodes/YoussefCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
